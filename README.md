@@ -1,4 +1,4 @@
-[![GithubFront](https://ibb.co/pWtZs29)]()
+[![GithubFront](https://i.ibb.co/68HJKm2/logo.png)]()
 # Github Front
 
 O projeto Github Front é uma aplicação em ReactJS utilizando Typescript para otimização e tipagem que busca consumir a API do Github e trabalhar na listagem dos seus repositórios preferidos, e disponibilizar links rápidos para as Issues que estão em aberto. 
@@ -20,5 +20,5 @@ $ yarn install && yarn start
 
 Feito isso o serviço de frontend estará funcionando na porta :3000. 
 
-[![GithubFront](https://ibb.co/tc0ygq4)]()
+[![GithubFront](https://i.ibb.co/P42BKcN/app.png)]()
 
