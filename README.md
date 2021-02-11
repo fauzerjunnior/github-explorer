@@ -16,7 +16,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-grey?color=f0f0f5&labelColor=3a3a3a">
 </p>
 
-O projeto Github Explorer é uma aplicação em React JS utilizando Typescript para otimização e tipagem que busca consumir a API do Github e trabalhar na listagem dos seus repositórios preferidos, e disponibilizar links rápidos para as Issues que estão em aberto. 
+O projeto Github Explorer é uma aplicação em React JS utilizando Typescript para otimização e tipagem que busca consumir a API do Github e trabalhar na listagem dos seus repositórios preferidos, e disponibilizar links rápidos para as Issues que estão em aberto.
 
 <p align="center">
 <img src="https://imgur.com/HvczFdz.png" title="Github Explorer">
